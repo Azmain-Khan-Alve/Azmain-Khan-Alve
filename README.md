@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **Azmain-Khan-Alve/Azmain-Khan-Alve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +16,10 @@ Here are some ideas to get you started:
 # Hi, I'm Azmain 👋  
 Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data into impactful solutions  
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
+
+---
+
 🌟 **About Me**  
 - 🎓 Computer Science graduate (BRAC University) with strong foundation in AI/ML, Data Science, and Statistics  
 - 🧑‍💻 Skilled in Python, SQL, TensorFlow, PyTorch, Scikit-learn, Django, PostgreSQL, and Bootstrap  
@@ -26,11 +29,16 @@ Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data int
 ---
 
 🔧 **Tech Stack**  
-- **Programming & Data:** Python, SQL, NumPy, Pandas, Matplotlib, Seaborn  
-- **Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch  
-- **Databases:** PostgreSQL, MySQL  
-- **Web Development:** Django, Bootstrap, HTML, CSS  
-- **Tools:** Git, Google Colab, Jupyter Notebook  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -43,11 +51,14 @@ Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data int
 ---
 
 📊 **GitHub Stats**  
-![Azmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzmainKhanAlve&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainKhanAlve&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzmainKhanAlve&show_icons=true&theme=tokyonight" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzmainKhanAlve&layout=compact&theme=tokyonight" height="160px">
+</p>
 
 ---
 
 📫 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/md-azmain-khan-alve-716536229)  
-- [Email](mailto:your_email_here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azmain-khan-alve-716536229)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalve699@gmail.com)  
