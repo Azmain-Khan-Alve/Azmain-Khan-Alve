@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 # Hi, I'm Azmain 👋  
 Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data into impactful solutions  
 
@@ -62,7 +62,7 @@ Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data int
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azmain-khan-alve)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalve699@gmail.com)  
--->
+<!--
 <h1 align="center">Hi 👋, I'm Azmain Khan</h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Engineer | Passionate about turning data into impactful solutions</h3>
 
@@ -79,3 +79,4 @@ Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data int
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azmain-khan-alve&show_icons=true&locale=en&layout=compact" alt="azmain-khan-alve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azmain-khan-alve&" alt="azmain-khan-alve" /></p>
+-->
