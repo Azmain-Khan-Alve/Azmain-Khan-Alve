@@ -60,5 +60,5 @@ Aspiring **Data Scientist | AI/ML Engineer** | Passionate about turning data int
 ---
 
 📫 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azmain-khan-alve-716536229)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-azmain-khan-alve)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalve699@gmail.com)  
